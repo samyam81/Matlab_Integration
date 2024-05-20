@@ -5,7 +5,7 @@ This project provides a simple calculator application implemented in both Java a
 
 ## Features
 - User input for selecting the operation and providing operands.
-- Calculation of arithmetic operations directly in Java (for the Java version).
+- Calculation of arithmetic operations directly in Java (for the Java version) and Kotlin (for the Kotlin version).
 - Utilization of MATLAB for division operations (for the C# version).
 - Error handling for invalid input and exceptions.
 
@@ -15,13 +15,22 @@ This project provides a simple calculator application implemented in both Java a
   - MATLAB installed and configured correctly.
 - **C# Version:**
   - MATLAB Compiler Runtime (MCR) installed and configured correctly.
-  
+- **Kotlin Version:**
+  - Kotlin compiler installed on your system.
+  - MATLAB installed and configured correctly.
+
 ## Setup and Usage
 
 ### Java Version
 1. Compile the Java code using any Java compiler.
 2. Ensure that MATLAB is installed and configured correctly on your system.
 3. Run the compiled Java application.
+4. Follow the on-screen instructions to perform arithmetic operations.
+
+### Kotlin Version
+1. Compile the Kotlin code using any Kotlin compiler.
+2. Ensure that MATLAB is installed and configured correctly on your system.
+3. Run the compiled Kotlin application.
 4. Follow the on-screen instructions to perform arithmetic operations.
 
 ### C# Version
